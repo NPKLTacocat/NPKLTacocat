@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://khangphutran.com/](https://khangphutran.com/)
 
-- 📫 How to reach me **khangtran.gnb@gmail.com**
+- 📫 Reach me at my [email](khangtran.gnb@gmail.com)
 
-- 📄 Know about my experiences [https://khangphutran.com/documents/Khang%20Tran%20-%20Resume.pdf](https://khangphutran.com/documents/Khang%20Tran%20-%20Resume.pdf)
+- 📄 Know about my experiences [here](https://khangphutran.com/documents/Khang%20Tran%20-%20Resume.pdf)
 
 - ⚡ Fun fact **I like mechanical keyboards**
 
