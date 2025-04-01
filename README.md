@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on WhatTheSub<br><br>🌱 I’m currently learning more about MCPs and how to implement AI into my software<br><br>👨‍💻 You can view my portfolio at https://khangphutran.com/<br><br>📫 How to reach me khangtran.gnb@gmail.com<br><br>📄 Know about my experiences https://khangphutran.com/documents/Khang%20Tran%20-%20Resume.pdf<br><br>⚡ Fun fact I like mechanical keyboards
+- 🔭 I’m currently working on [WhatTheSub](https://github.com/NPKLTacocat/WhatTheSub)
+
+- 🌱 I’m currently learning **about MCPs and how to implement AI into my software**
+
+- 👨‍💻 All of my projects are available at [https://khangphutran.com/](https://khangphutran.com/)
+
+- 📫 How to reach me **khangtran.gnb@gmail.com**
+
+- 📄 Know about my experiences [https://khangphutran.com/documents/Khang%20Tran%20-%20Resume.pdf](https://khangphutran.com/documents/Khang%20Tran%20-%20Resume.pdf)
+
+- ⚡ Fun fact **I like mechanical keyboards**
 
 
 ## 🌐 Socials:
