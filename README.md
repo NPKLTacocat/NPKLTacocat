@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **about MCPs and how to implement AI into my software**
 
-- 👨‍🎓 I'm currently an international student studying **Computer Science** at the **University of Florida**
+- 👨‍🎓 I'm an international student studying **Computer Science** at the **University of Florida**
 
 - 👨‍💻 Check out my portfolio at [https://khangphutran.com/](https://khangphutran.com/)
 
