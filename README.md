@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://khangphutran.com/](https://khangphutran.com/)
 
-- 📫 Reach me at my [email](khangtran.gnb@gmail.com)
+- 📫 Reach me at my email **khangtran.gnb@gmail.com**
 
 - 📄 Know about my experiences [here](https://khangphutran.com/documents/Khang%20Tran%20-%20Resume.pdf)
 
