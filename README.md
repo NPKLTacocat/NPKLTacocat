@@ -5,7 +5,7 @@
 
 - 👨‍🎓 I'm currently an international student studying **Computer Science** at the **University of Florida**
 
-- 👨‍💻 All of my projects are available at [https://khangphutran.com/](https://khangphutran.com/)
+- 👨‍💻 Check out my portfolio at [https://khangphutran.com/](https://khangphutran.com/)
 
 - 📄 Know about my experiences [here](https://khangphutran.com/documents/Khang%20Tran%20-%20Resume.pdf)
 
