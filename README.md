@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **about MCPs and how to implement AI into my software**
 
-- 👨‍💻 All of my projects are available at [https://khangphutran.com/](https://khangphutran.com/)
+- 👨‍🎓 I'm currently an international student studying **Computer Science** at the **University of Florida**
 
-- 📫 Reach me at my email **khangtran.gnb@gmail.com**
+- 👨‍💻 All of my projects are available at [https://khangphutran.com/](https://khangphutran.com/)
 
 - 📄 Know about my experiences [here](https://khangphutran.com/documents/Khang%20Tran%20-%20Resume.pdf)
 
